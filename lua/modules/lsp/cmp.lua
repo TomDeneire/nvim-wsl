@@ -79,7 +79,6 @@ return {
 
         keymap = {
             preset = "enter",
-            ["<CR>"] = { "select_and_accept" },
         },
     },
     ---@param opts blink.cmp.Config | { sources: { compat: string[] } }
