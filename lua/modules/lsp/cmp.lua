@@ -78,7 +78,7 @@ return {
         },
 
         keymap = {
-            preset = "enter",
+            preset = "super-tab",
         },
     },
     ---@param opts blink.cmp.Config | { sources: { compat: string[] } }
